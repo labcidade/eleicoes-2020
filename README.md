@@ -8,7 +8,7 @@ Eleições 2020 - Prefeituras (1º turno) e Câmaras Municipais da RMSP
 **Licença de compartilhamento:** CC Atribuição (CC BY 3.0 BR) (ver arquivo LICENÇA.txt)
 
 ## Conteúdo
-Dados do primeiro turno das eleições de 2020 para os municípios da Região Metropolitana de São Paulo. O arquivo *1t-2020-rmsp-executivo.zip* contém uma sistematização sobre a disputa para as prefeituras, e o arquivo 1t-2020-rmsp-geo.zip contém uma sistematização do desempenho de cada candidatura (prefeitura e vereança) por local de votação. Ambas as bases de dados contém latitude e longitude em WGS84.
+Dados do primeiro turno das eleições de 2020 para os municípios da Região Metropolitana de São Paulo. O arquivo *1t-2020-rmsp-executivo.zip* contém uma sistematização sobre a disputa para as prefeituras, e o arquivo 1t-2020-rmsp-geo.zip contém uma sistematização do desempenho de cada candidatura (prefeitura e vereança) por local de votação. Ambas as bases de dados contém latitude e longitude em WGS84. Os arquivos estão codificados em UTF-8, separados por tabulações.
 
 São parte deste conjunto de dados:
 
