@@ -1,0 +1,23 @@
+Arquivo	Variável	Descrição
+executivo/MUNICIPIO-Pleito-XtAAAA.txt	cod_local	Código interno de identificação do local de votação
+executivo/MUNICIPIO-Pleito-XtAAAA.txt	[NOME-CAND]	Total de votos em [NOME-CAND] no local
+executivo/MUNICIPIO-Pleito-XtAAAA.txt	Nulo	Total de votos nulos no local
+executivo/MUNICIPIO-Pleito-XtAAAA.txt	Branco	Total de votos brancos no local
+executivo/MUNICIPIO-Pleito-XtAAAA.txt	vencedor	Nome de candidate com mais votos válidos no local
+executivo/MUNICIPIO-Pleito-XtAAAA.txt	v_valid	Total de votos válidos no local
+executivo/MUNICIPIO-Pleito-XtAAAA.txt	e_apto	Total de eleitores habilitados para votar
+executivo/MUNICIPIO-Pleito-XtAAAA.txt	e_comp	Total de comparecimentos
+executivo/MUNICIPIO-Pleito-XtAAAA.txt	e_abst	Total de abstenções
+executivo/MUNICIPIO-Pleito-XtAAAA.txt	[NOME-CAND]_%	Porcentagem de votos de [NOME-CAND] sobre os votos válidos no local
+executivo/MUNICIPIO-Pleito-XtAAAA.txt	longitude	Longitude do local de votação, em WGS84
+executivo/MUNICIPIO-Pleito-XtAAAA.txt	latitude	Latitude do local de votação, em WGS84
+geo/MUNICIPIO-Pleito/PARTIDO_NOME-CAND.txt	cod_local	Código interno de identificação do local de votação
+geo/MUNICIPIO-Pleito/PARTIDO_NOME-CAND.txt	QT_VOTOS	Quantidade de votos em NOME-CAND
+geo/MUNICIPIO-Pleito/PARTIDO_NOME-CAND.txt	longitude	Longitude do local de votação, em WGS84
+geo/MUNICIPIO-Pleito/PARTIDO_NOME-CAND.txt	latitude	Latitude do local de votação, em WGS84
+geo/MUNICIPIO-Pleito/PARTIDO_NOME-CAND.txt	LOC_VALID	Total de votos válidos no local
+geo/MUNICIPIO-Pleito/PARTIDO_NOME-CAND.txt	%_LOC_V	Porcentagem de votos de [NOME-CAND] sobre os votos válidos no local
+geo/MUNICIPIO-Pleito/PARTIDO_NOME-CAND.txt	%_CAND	Porcentagem de votos de [NOME-CAND] no local sobre o total de votos em [NOME-CAND]
+geo/MUNICIPIO-Pleito/PARTIDO_NOME-CAND.txt	QT_APTOS	Total de eleitores habilitados para votar
+geo/MUNICIPIO-Pleito/PARTIDO_NOME-CAND.txt	QT_COMPARECIMENTO	Total de comparecimentos
+geo/MUNICIPIO-Pleito/PARTIDO_NOME-CAND.txt	QT_ABSTENCOES	Total de abstenções
