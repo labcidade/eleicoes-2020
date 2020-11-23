@@ -12,8 +12,8 @@ Dados do primeiro turno das eleições de 2020 para os municípios da Região Me
 
 São parte deste conjunto de dados:
 
-    1t-2020-rmsp-executivo.zip
-    1t-2020-rmsp-geo.zip
+    /geo/.*
+    /executivo/.*
 
 ## Metodologia
 Os locais de votação foram obtidos a partir de geocodificação de planilha do TRE-SP por API da Google, com posteriores ajustes manuais. Os códigos de zonas e seções foram então usados para agregar os resultados de boletins de urna do TSE por locais de votação georreferenciados.
